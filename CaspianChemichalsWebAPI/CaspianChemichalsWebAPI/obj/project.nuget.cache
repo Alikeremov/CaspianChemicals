@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3dYVtQ+rDHU=",
+  "dgSpecHash": "i3wS3try2Po=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

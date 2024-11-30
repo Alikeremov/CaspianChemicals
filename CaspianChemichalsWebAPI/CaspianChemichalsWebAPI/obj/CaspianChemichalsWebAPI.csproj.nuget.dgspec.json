@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj": {}
+    "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj": {
+    "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj",
         "projectName": "CaspianChemichalsWebAPI",
-        "projectPath": "C:\\Users\\user\\Desktop\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

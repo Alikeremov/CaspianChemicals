@@ -1,3 +1,4 @@
+using CaspianChemichalsWebAPI.ServicesRegistrations;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -34,7 +35,7 @@ builder.Services.AddSwaggerGen(opt =>
         }
     });
 });
-
+builder.Services.AddProjectServices(builder.Configuration);
 var app = builder.Build();
 
 // Enable CORS
