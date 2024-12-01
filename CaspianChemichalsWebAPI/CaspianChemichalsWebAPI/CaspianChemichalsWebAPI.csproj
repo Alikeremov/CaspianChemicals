@@ -29,14 +29,11 @@
 
   <ItemGroup>
     <Folder Include="Abstraction\Services\" />
-    <Folder Include="Abstraction\Repostories\" />
     <Folder Include="Controllers\" />
     <Folder Include="Dtos\" />
     <Folder Include="Implementations\Services\" />
-    <Folder Include="Implementations\Repostories\" />
     <Folder Include="MappingProfiles\" />
     <Folder Include="Extensions\" />
-    <Folder Include="Enums\" />
     <Folder Include="Validations\" />
     <Folder Include="Utilites\" />
   </ItemGroup>

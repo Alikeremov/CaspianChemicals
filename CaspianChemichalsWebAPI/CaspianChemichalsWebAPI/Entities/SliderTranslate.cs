@@ -2,12 +2,12 @@
 
 namespace CaspianChemichalsWebAPI.Entities
 {
-    public class Slider:BaseEntity
+    public class SliderTranslate:BaseEntityTranslate
     {
         public string Tittle { get; set; } = null!;
         public string Subtittle { get; set; } = null!;
-        public int Order { get; set; }
-        //Relational properties 
-        public ICollection<SliderTranslate> Translates { get; set; }
+        //Relational properties
+        public int SliderId { get; set; }
+        public Slider Slider { get; set; }
     }
 }

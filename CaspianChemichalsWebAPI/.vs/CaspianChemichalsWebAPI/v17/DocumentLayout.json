@@ -3,20 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\implementations\\repostories\\translatedrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\implementations\\repostories\\translatedrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\implementations\\repostories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\implementations\\repostories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\abstraction\\repostories\\generic\\itranslatedrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\abstraction\\repostories\\generic\\itranslatedrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\abstraction\\repostories\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\abstraction\\repostories\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\baseentities\\baseentitytranslate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\baseentities\\baseentitytranslate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\ourpartners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\ourpartners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\contexts\\migrations\\20241130170259_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\contexts\\migrations\\20241130170259_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\slidertranslate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\slidertranslate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\ourpartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\ourpartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\ourpartnertranslate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\ourpartnertranslate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\abouttranslate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\abouttranslate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\baseentities\\baseentitynameable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\baseentities\\baseentitynameable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\baseentities\\baseentitytranslatenameable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\baseentities\\baseentitytranslatenameable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,18 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\contexts\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\contexts\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\baseentities\\baseentitynameable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\baseentities\\baseentitynameable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\entities\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\entities\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\contexts\\migrations\\20241130170259_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|solutionrelative:caspianchemichalswebapi\\contexts\\migrations\\20241130170259_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ED8CE07-384B-4190-A7FA-716C1BD82798}|CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI.csproj|c:\\users\\user\\desktop\\caspianchemicals\\caspianchemichalswebapi\\caspianchemichalswebapi\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,97 +102,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Contexts\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Contexts\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Contexts\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "CaspianChemichalsWebAPI\\Contexts\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TranslatedRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Implementations\\Repostories\\TranslatedRepo.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Implementations\\Repostories\\TranslatedRepo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Implementations\\Repostories\\TranslatedRepo.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Implementations\\Repostories\\TranslatedRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:28:03.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OurPartners.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\OurPartners.cs",
-              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\OurPartners.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\OurPartners.cs",
-              "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\OurPartners.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:09:13.745Z",
+              "WhenOpened": "2024-12-01T13:02:06.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "About.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\About.cs",
-              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\About.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\About.cs",
-              "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\About.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Implementations\\Repostories\\Repository.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Implementations\\Repostories\\Repository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Implementations\\Repostories\\Repository.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Implementations\\Repostories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:07:37.294Z",
+              "WhenOpened": "2024-12-01T12:58:54.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "ITranslatedRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Abstraction\\Repostories\\Generic\\ITranslatedRepo.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Abstraction\\Repostories\\Generic\\ITranslatedRepo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Abstraction\\Repostories\\Generic\\ITranslatedRepo.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Abstraction\\Repostories\\Generic\\ITranslatedRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:30:22.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\Slider.cs",
               "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\Slider.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\Slider.cs",
               "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\Slider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T17:04:07.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseEntityNameable.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityNameable.cs",
-              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityNameable.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityNameable.cs",
-              "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityNameable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:30:21.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "CaspianChemichalsWebAPI\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:26:55.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\AppUser.cs",
-              "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:35:54.216Z",
               "EditorCaption": ""
             },
             {
@@ -170,41 +171,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppUserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Configurations\\AppUserConfiguration.cs",
-              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Configurations\\AppUserConfiguration.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Configurations\\AppUserConfiguration.cs",
-              "RelativeToolTip": "CaspianChemichalsWebAPI\\Configurations\\AppUserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:01:15.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\ServicesRegistrations\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\ServicesRegistrations\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\ServicesRegistrations\\ServiceRegistration.cs",
-              "RelativeToolTip": "CaspianChemichalsWebAPI\\ServicesRegistrations\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:40:15.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntity.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntity.cs",
               "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T16:28:02.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntityTranslate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityTranslate.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityTranslate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityTranslate.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityTranslate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:14:03.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\About.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\About.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\About.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:07:37.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Enums\\Language.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Enums\\Language.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Enums\\Language.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Enums\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:16:24.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Abstraction\\Repostories\\Generic\\IRepository.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Abstraction\\Repostories\\Generic\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Abstraction\\Repostories\\Generic\\IRepository.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Abstraction\\Repostories\\Generic\\IRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:12:29.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SliderTranslate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\SliderTranslate.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\SliderTranslate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\SliderTranslate.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\SliderTranslate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:18:32.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OurPartner.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\OurPartner.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\OurPartner.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\OurPartner.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\OurPartner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:09:13.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OurPartnerTranslate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\OurPartnerTranslate.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\OurPartnerTranslate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\OurPartnerTranslate.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\OurPartnerTranslate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:18:06.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutTranslate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\AboutTranslate.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\AboutTranslate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\AboutTranslate.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\AboutTranslate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:17:47.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntityNameable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityNameable.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityNameable.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityNameable.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityNameable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:30:21.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntityTranslateNameable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityTranslateNameable.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityTranslateNameable.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityTranslateNameable.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\BaseEntities\\BaseEntityTranslateNameable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:20:29.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Entities\\AppUser.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:35:54.216Z",
               "EditorCaption": ""
             },
             {
@@ -213,7 +331,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Contexts\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Contexts\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Contexts\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Contexts\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:28:03.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:26:55.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Configurations\\AppUserConfiguration.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Configurations\\AppUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Configurations\\AppUserConfiguration.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\Configurations\\AppUserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:01:15.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\ServicesRegistrations\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\ServicesRegistrations\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\ServicesRegistrations\\ServiceRegistration.cs",
+              "RelativeToolTip": "CaspianChemichalsWebAPI\\ServicesRegistrations\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:40:15.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\appsettings.json",
@@ -221,12 +387,11 @@
               "RelativeToolTip": "CaspianChemichalsWebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-26T18:24:41.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T18:24:41.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CaspianChemicals\\CaspianChemichalsWebAPI\\CaspianChemichalsWebAPI\\Program.cs",
               "RelativeDocumentMoniker": "CaspianChemichalsWebAPI\\Program.cs",
@@ -234,8 +399,7 @@
               "RelativeToolTip": "CaspianChemichalsWebAPI\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAAACUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T18:24:34.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T18:24:34.644Z"
             }
           ]
         }

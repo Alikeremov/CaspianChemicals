@@ -2,12 +2,12 @@
 
 namespace CaspianChemichalsWebAPI.Entities
 {
-    public class About : BaseEntity
+    public class AboutTranslate:BaseEntityTranslate
     {
         public string Tittle { get; set; } = null!;
         public string Description { get; set; } = null!;
-        public string Image { get; set; } = null!;
-        //Relational properties 
-        public ICollection<AboutTranslate> Translates { get; set; }
+        //Relational properties
+        public int AboutId { get; set; }
+        public About  About { get; set; }
     }
 }
