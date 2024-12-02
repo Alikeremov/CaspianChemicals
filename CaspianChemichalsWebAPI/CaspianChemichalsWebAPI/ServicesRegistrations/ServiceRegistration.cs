@@ -5,6 +5,9 @@ using Microsoft.AspNetCore.Mvc.Infrastructure;
 using Microsoft.AspNetCore.Mvc.Routing;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using CaspianChemichalsWebAPI.Abstraction.Repostories.Generic;
+using CaspianChemichalsWebAPI.Abstraction.Repostories;
+using CaspianChemichalsWebAPI.Implementations.Repostories;
 
 namespace CaspianChemichalsWebAPI.ServicesRegistrations
 {
@@ -29,6 +32,13 @@ namespace CaspianChemichalsWebAPI.ServicesRegistrations
             services.AddSingleton<IActionContextAccessor, ActionContextAccessor>();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddScoped<IUrlHelper>(x => x.GetRequiredService<IUrlHelperFactory>().GetUrlHelper(x.GetRequiredService<IActionContextAccessor>().ActionContext));
+            //Registrations of Repositories
+            services.AddScoped<IAboutRepo, AboutRepo>();
+            services.AddScoped<IAboutTranslateRepo, AboutTranslateRepo>();
+            services.AddScoped<IOurPartnerRepo, OurPartnerRepo>();
+            services.AddScoped<IOurPartnerTranslateRepo, OurPartnerTranslateRepo>();
+            services.AddScoped<ISliderRepo, SliderRepo>();
+            services.AddScoped<ISliderTranslateRepo, SliderTranslatedRepo>();
             return services;
         }
     }

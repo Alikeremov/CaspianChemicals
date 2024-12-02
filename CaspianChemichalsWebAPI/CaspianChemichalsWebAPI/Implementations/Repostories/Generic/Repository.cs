@@ -3,8 +3,9 @@ using CaspianChemichalsWebAPI.Contexts;
 using CaspianChemichalsWebAPI.Entities.BaseEntities;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
+using System.Linq;
 
-namespace CaspianChemichalsWebAPI.Implementations.Repostories
+namespace CaspianChemichalsWebAPI.Implementations.Repostories.Generic
 {
     public class Repository<T> : IRepository<T> where T : BaseEntity, new()
     {
@@ -25,7 +26,7 @@ namespace CaspianChemichalsWebAPI.Implementations.Repostories
             _dbSet.Remove(entity);
             await SaveChangesAsync();
         }
-        
+
 
         public async Task UpdateAsync(T entity)
         {
@@ -40,10 +41,10 @@ namespace CaspianChemichalsWebAPI.Implementations.Repostories
         {
             return await _dbSet.AnyAsync(expression);
         }
-        public IQueryable<T> GetAll(bool isTracking = false,  bool QueryFilter = false, params string[] includes)
+        public IQueryable<T> GetAll(bool isTracking = false, bool QueryFilter = false, params string[] includes)
         {
             IQueryable<T> query = _dbSet;
-    
+
             query = isTracking ? query : query.AsNoTracking();
             query = QueryFilter ? query : query.IgnoreQueryFilters();
             query = Includes(query, includes);
@@ -71,7 +72,7 @@ namespace CaspianChemichalsWebAPI.Implementations.Repostories
             bool QueryFilter = false, params string[] includes)
         {
             IQueryable<T> query = _dbSet.Where(expression);
-            
+
             query = isTracking ? query : query.AsNoTracking();
             query = QueryFilter ? query : query.IgnoreQueryFilters();
             query = Includes(query, includes);

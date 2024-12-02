@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaspianChemichalsWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eeb484b51934714302fe4a4f930cc221eb3cfb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d1a1d511966a27753d68c872be93067ca26eb2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaspianChemichalsWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaspianChemichalsWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

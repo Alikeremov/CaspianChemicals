@@ -5,13 +5,13 @@ using CaspianChemichalsWebAPI.Enums;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 
-namespace CaspianChemichalsWebAPI.Implementations.Repostories
+namespace CaspianChemichalsWebAPI.Implementations.Repostories.Generic
 {
     public class TranslatedRepo<Ttranslate> : Repository<Ttranslate>, ITranslatedRepo<Ttranslate> where Ttranslate : BaseEntityTranslate, new()
     {
 
         public TranslatedRepo(AppDbContext context) : base(context)
-        { 
+        {
         }
         public IQueryable<Ttranslate> GetAllTranslated(Language language = Language.AZ,
     bool isTracking = false, bool QueryFilter = false, params string[] includes)
@@ -44,7 +44,7 @@ namespace CaspianChemichalsWebAPI.Implementations.Repostories
 
             foreach (var include in includes)
                 query = query.Include(include);
-            
+
             query = query.Skip(skip).Take(take);
 
             if (!isTracking)
