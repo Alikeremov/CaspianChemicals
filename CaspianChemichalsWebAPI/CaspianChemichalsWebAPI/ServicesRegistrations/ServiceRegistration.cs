@@ -8,6 +8,8 @@ using Microsoft.EntityFrameworkCore;
 using CaspianChemichalsWebAPI.Abstraction.Repostories.Generic;
 using CaspianChemichalsWebAPI.Abstraction.Repostories;
 using CaspianChemichalsWebAPI.Implementations.Repostories;
+using CaspianChemichalsWebAPI.Abstraction.Services;
+using CaspianChemichalsWebAPI.Implementations.Services;
 
 namespace CaspianChemichalsWebAPI.ServicesRegistrations
 {
@@ -39,6 +41,8 @@ namespace CaspianChemichalsWebAPI.ServicesRegistrations
             services.AddScoped<IOurPartnerTranslateRepo, OurPartnerTranslateRepo>();
             services.AddScoped<ISliderRepo, SliderRepo>();
             services.AddScoped<ISliderTranslateRepo, SliderTranslatedRepo>();
+            //Registrations of Services
+            services.AddScoped<ICloudinaryService, CloudinaryService>();
             return services;
         }
     }
