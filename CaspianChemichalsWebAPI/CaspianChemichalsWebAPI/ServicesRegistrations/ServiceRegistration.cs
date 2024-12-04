@@ -10,6 +10,9 @@ using CaspianChemichalsWebAPI.Abstraction.Repostories;
 using CaspianChemichalsWebAPI.Implementations.Repostories;
 using CaspianChemichalsWebAPI.Abstraction.Services;
 using CaspianChemichalsWebAPI.Implementations.Services;
+using FluentValidation.AspNetCore;
+using System.Reflection;
+using FluentValidation;
 
 namespace CaspianChemichalsWebAPI.ServicesRegistrations
 {
@@ -43,6 +46,18 @@ namespace CaspianChemichalsWebAPI.ServicesRegistrations
             services.AddScoped<ISliderTranslateRepo, SliderTranslatedRepo>();
             //Registrations of Services
             services.AddScoped<ICloudinaryService, CloudinaryService>();
+            services.AddScoped<IAboutService, AboutService>();
+            services.AddScoped<IAboutTranslateService, AboutTranslateService>();
+
+
+
+
+
+
+            services.AddAutoMapper(Assembly.GetExecutingAssembly());
+            services.AddFluentValidationAutoValidation()
+                .AddFluentValidationClientsideAdapters()
+                .AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
             return services;
         }
     }

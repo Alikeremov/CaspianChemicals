@@ -29,10 +29,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
     <Folder Include="Extensions\" />
-    <Folder Include="Validations\" />
-    <Folder Include="Utilites\" />
+    <Folder Include="Validations\AutenticationValidators\" />
   </ItemGroup>
 
 </Project>

@@ -157,3 +157,5 @@ C:\Users\user\Desktop\CaspianChemicals\CaspianChemichalsWebAPI\CaspianChemichals
 C:\Users\user\Desktop\CaspianChemicals\CaspianChemichalsWebAPI\CaspianChemichalsWebAPI\obj\Debug\net8.0\CaspianChemichalsWebAPI.pdb
 C:\Users\user\Desktop\CaspianChemicals\CaspianChemichalsWebAPI\CaspianChemichalsWebAPI\obj\Debug\net8.0\CaspianChemichalsWebAPI.genruntimeconfig.cache
 C:\Users\user\Desktop\CaspianChemicals\CaspianChemichalsWebAPI\CaspianChemichalsWebAPI\obj\Debug\net8.0\ref\CaspianChemichalsWebAPI.dll
+C:\Users\user\Desktop\CaspianChemicals\CaspianChemichalsWebAPI\CaspianChemichalsWebAPI\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\user\Desktop\CaspianChemicals\CaspianChemichalsWebAPI\CaspianChemichalsWebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll

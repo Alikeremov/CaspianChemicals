@@ -9,6 +9,7 @@ namespace CaspianChemichalsWebAPI.MappingProfiles
         public AboutProfile()
         {
             CreateMap<About, AboutItemDto>();
+            CreateMap<AboutTranslate, AboutItemDto>();
             CreateMap<AboutCreateDto, About>();
             CreateMap<About, AboutUpdateDto>().ReverseMap();
         }
