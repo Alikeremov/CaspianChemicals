@@ -9,6 +9,7 @@ namespace CaspianChemichalsWebAPI.MappingProfiles
         public OurPartnerProfile()
         {
             CreateMap<OurPartner,OurPartnerItemDto>();
+            CreateMap<OurPartnerTranslate,OurPartnerItemDto>();
             CreateMap<OurPartnerCreateDto, OurPartner>();
             CreateMap<OurPartner, OurPartnerUpdateDto>();
         }

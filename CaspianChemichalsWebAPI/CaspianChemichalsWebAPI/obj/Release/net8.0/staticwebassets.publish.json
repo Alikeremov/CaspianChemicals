@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Fd3H3zDWufRJyKAvlG5KbCqpV2Dc8TJRSYAzCCrW+bA=",
+  "Source": "CaspianChemichalsWebAPI",
+  "BasePath": "_content/CaspianChemichalsWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

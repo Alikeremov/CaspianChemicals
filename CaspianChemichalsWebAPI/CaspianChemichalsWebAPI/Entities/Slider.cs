@@ -6,6 +6,7 @@ namespace CaspianChemichalsWebAPI.Entities
     {
         public string Tittle { get; set; } = null!;
         public string Subtittle { get; set; } = null!;
+        public string Image { get; set; } = null!;
         public int Order { get; set; }
         //Relational properties 
         public ICollection<SliderTranslate> Translates { get; set; }

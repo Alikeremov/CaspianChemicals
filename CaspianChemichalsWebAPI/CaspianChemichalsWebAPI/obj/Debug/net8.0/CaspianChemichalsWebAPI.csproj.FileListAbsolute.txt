@@ -150,7 +150,6 @@ C:\Users\user\Desktop\CaspianChemicals\CaspianChemichalsWebAPI\CaspianChemichals
 C:\Users\user\Desktop\CaspianChemicals\CaspianChemichalsWebAPI\CaspianChemichalsWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CaspianChemichalsWebAPI.props
 C:\Users\user\Desktop\CaspianChemicals\CaspianChemichalsWebAPI\CaspianChemichalsWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CaspianChemichalsWebAPI.props
 C:\Users\user\Desktop\CaspianChemicals\CaspianChemichalsWebAPI\CaspianChemichalsWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\user\Desktop\CaspianChemicals\CaspianChemichalsWebAPI\CaspianChemichalsWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\user\Desktop\CaspianChemicals\CaspianChemichalsWebAPI\CaspianChemichalsWebAPI\obj\Debug\net8.0\CaspianC.BFC3A426.Up2Date
 C:\Users\user\Desktop\CaspianChemicals\CaspianChemichalsWebAPI\CaspianChemichalsWebAPI\obj\Debug\net8.0\CaspianChemichalsWebAPI.dll
 C:\Users\user\Desktop\CaspianChemicals\CaspianChemichalsWebAPI\CaspianChemichalsWebAPI\obj\Debug\net8.0\refint\CaspianChemichalsWebAPI.dll

@@ -9,6 +9,7 @@ namespace CaspianChemichalsWebAPI.MappingProfiles
         public SliderProfile()
         {
             CreateMap<Slider, SliderItemDto>();
+            CreateMap<SliderTranslate, SliderItemDto>();
             CreateMap<SliderCreateDto, Slider>();
             CreateMap<Slider, SliderUpdateDto>();
         }

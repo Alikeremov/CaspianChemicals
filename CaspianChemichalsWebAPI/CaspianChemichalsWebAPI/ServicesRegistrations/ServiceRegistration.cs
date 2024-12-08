@@ -34,9 +34,13 @@ namespace CaspianChemichalsWebAPI.ServicesRegistrations
                 opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
                 opt.Lockout.AllowedForNewUsers = false;
             }).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
+
             services.AddSingleton<IActionContextAccessor, ActionContextAccessor>();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddScoped<IUrlHelper>(x => x.GetRequiredService<IUrlHelperFactory>().GetUrlHelper(x.GetRequiredService<IActionContextAccessor>().ActionContext));
+
+
+
             //Registrations of Repositories
             services.AddScoped<IAboutRepo, AboutRepo>();
             services.AddScoped<IAboutTranslateRepo, AboutTranslateRepo>();
@@ -45,11 +49,15 @@ namespace CaspianChemichalsWebAPI.ServicesRegistrations
             services.AddScoped<ISliderRepo, SliderRepo>();
             services.AddScoped<ISliderTranslateRepo, SliderTranslatedRepo>();
             //Registrations of Services
-            services.AddScoped<ICloudinaryService, CloudinaryService>();
             services.AddScoped<IAboutService, AboutService>();
             services.AddScoped<IAboutTranslateService, AboutTranslateService>();
-
-
+            services.AddScoped<IOurPartnerService, OurPartnerService>();
+            services.AddScoped<IOurPartnerTranslateService, OurPartnerTranslateService>();
+            services.AddScoped<ISliderService, SliderService>();
+            services.AddScoped<ISliderTranslateService, SliderTranslateService>();
+            services.AddScoped<ICloudinaryService, CloudinaryService>();
+            services.AddScoped<IJwtTokenService, JwtTokenService>();
+            services.AddScoped<IAutenticationService, AutenticationService>();
 
 
 

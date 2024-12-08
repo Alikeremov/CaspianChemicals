@@ -280,5 +280,569 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.OurPartnersController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/OurPartners/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "WebsiteLink",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Logo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.OurPartnersController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/OurPartners/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.OurPartnersController",
+    "Method": "Get",
+    "RelativePath": "api/OurPartners/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "take",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.OurPartnersController",
+    "Method": "Get",
+    "RelativePath": "api/OurPartners/Get/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.OurPartnersController",
+    "Method": "Get",
+    "RelativePath": "api/OurPartners/Get/{id}/translated",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "language",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.OurPartnersController",
+    "Method": "GetTranslates",
+    "RelativePath": "api/OurPartners/GetTranslates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "language",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "take",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.OurPartnersController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/OurPartners/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "WebsiteLink",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExistLogo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NewLogo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.OurPartnerTranslatesController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/OurPartnerTranslates/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Language",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "OurPartnerId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.OurPartnerTranslatesController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/OurPartnerTranslates/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.OurPartnerTranslatesController",
+    "Method": "Get",
+    "RelativePath": "api/OurPartnerTranslates/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "take",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.OurPartnerTranslatesController",
+    "Method": "Get",
+    "RelativePath": "api/OurPartnerTranslates/Get/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.OurPartnerTranslatesController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/OurPartnerTranslates/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Language",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "OurPartnerId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.SlidersController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/Sliders/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Order",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Tittle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Subtittle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.SlidersController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Sliders/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.SlidersController",
+    "Method": "Get",
+    "RelativePath": "api/Sliders/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "take",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.SlidersController",
+    "Method": "Get",
+    "RelativePath": "api/Sliders/Get/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.SlidersController",
+    "Method": "Get",
+    "RelativePath": "api/Sliders/Get/{id}/translated",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "language",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.SlidersController",
+    "Method": "GetTranslates",
+    "RelativePath": "api/Sliders/GetTranslates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "language",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "take",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.SlidersController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/Sliders/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Order",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Tittle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Subtittle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NewImage",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExistsImage",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.SliderTranslatesController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/SliderTranslates/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Tittle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Subtittle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SliderId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Language",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.SliderTranslatesController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/SliderTranslates/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.SliderTranslatesController",
+    "Method": "Get",
+    "RelativePath": "api/SliderTranslates/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "take",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.SliderTranslatesController",
+    "Method": "Get",
+    "RelativePath": "api/SliderTranslates/Get/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaspianChemichalsWebAPI.Controllers.SliderTranslatesController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/SliderTranslates/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Tittle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Subtittle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SliderId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Language",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

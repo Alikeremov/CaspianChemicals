@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACogk3EOGR0CO18LR9HiyHwAAAAACAAAAAAAQZgAAAAEAACAAAACXYhJeNiNwZT4mp8VGjehKvhk41/lNmX1gMPbi/PjRUQAAAAAOgAAAAAIAACAAAABswCteXxS80il+VI0QqYCgdx0vB2KFw7Fu+ZYkYOv0syAAAAA8nzxUZp2kClhm0Hn4S2a7DwiWqPfAORbm+Qu2m8S0Y0AAAABkKimRqfcb6uymKdL7n4zwFbUzC/m9H/gxaY/erusV69ZZdqNoK0BO6khOlouyRY1dOcX//knwYLI0tUB2EpVT</EncryptedPassword>
+    <History>True|2024-12-07T19:04:30.8454524Z||;True|2024-12-07T18:19:45.2182607+04:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Default">
+      <Value>Server=sql1001.site4now.net%3bdatabase=db_ab0500_caspian%3buser=db_ab0500_caspian_admin%3bpassword=Caspian.2024%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

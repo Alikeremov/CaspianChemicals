@@ -8,7 +8,7 @@ namespace CaspianChemichalsWebAPI.Abstraction.Services
         Task<ICollection<SliderItemDto>> GetAllAsync(int page, int take);
         Task<ICollection<SliderItemDto>> GetAllTranslatedAsync(int page, Language language, int take);
         Task<SliderItemDto> GetAsync(int id);
-        Task<SliderItemDto> GetTranslatedAsync(int id);
+        Task<SliderItemDto> GetTranslatedAsync(int id,Language language);
         Task CreateAsync(SliderCreateDto sliderDto);
         Task UpdateAsync(SliderUpdateDto sliderDto, int id);
         Task DeleteAsync(int id);
